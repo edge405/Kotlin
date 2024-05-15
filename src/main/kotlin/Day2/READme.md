@@ -1,0 +1,3 @@
+### Eyy it's day 2!!
+
+It's currently 2:50am, I'm still alive HAHA little bit sleepy but I need one more to push in this repository. I'm enjoying this programming language, the syntax are not complicated compared to java. I'm gonna learn more about the OOP's design patterns and best practices to make my code easy to understand and easy to maintain. I have a lot of plan for this programming language and I'm looking forward to make some wonderful projects with this language. Hope my procrastination doesn't control me again, I'm actually using this challenge to reduce my procrastination and be productive and optimistic everyday
