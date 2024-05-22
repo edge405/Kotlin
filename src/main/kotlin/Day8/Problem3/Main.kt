@@ -12,8 +12,12 @@ fun main() {
 
 }
 
-fun findSecondLargest(numbers: List<Int>): Any {
+fun findSecondLargest(numbers: List<Int>): Int? {
     val final = numbers.toSet().sorted()
     val result = final.toList()
+
+    if(result.size < 2){
+        return null
+    }
     return result[result.size - 2]
 }
