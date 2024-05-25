@@ -93,7 +93,7 @@ fun main() {
     println("Appointments for Doctor d001: $appointmentsForDoctor1")
 }
 ```
-This problem will help you practice managing collections of data and implementing basic CRUD operations in Kotlin.
 ###
 Yo! tbh this problem is hard when I always run the main method it always gives me this error : "Exception in thread "main" java.lang.StackOverflowError" it's so fucking frustrating! I just found out that the object in Appointment data class "Patient and Doctor" are the reason why I have a bug to my code. So I just make them as a String not an Object, after rerun the main method a lot of fucking errors fades out and it runs smoothly. Phew
+####
 ![img.png](img.png)
