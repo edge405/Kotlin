@@ -1,6 +1,6 @@
 ![img.png](img.png)
 ####
-Today I've challenged myself to dive into hackerrank website wherein you solve a problem within the problem you choose since there is a tons of coding problems that you can solve. Here's the link if you wanted to solve also some coding problems : [Hackerrank_link](hackerrank.com)
+Today I've challenged myself to dive into hackerrank website wherein you solve a problem within the problem you choose since there is a tons of coding problems that you can solve. Here's the link if you wanted to solve also some coding problems : [Hackerrank_link](https://www.hackerrank.com)
 ####
 Here's my solution to this problem:
 ```` kotlin
