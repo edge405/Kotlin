@@ -21,15 +21,15 @@ This program simulates a simple vending machine.
 ```
 Welcome to the Vending Machine!
 Available items:
-S - $1.50
-C - $1.00
-Y - $0.75
+S - ₱30
+C - ₱20
+Y - ₱15
 
-You chose S ($1.50).
+You chose S (₱30).
 Please insert money:
-... (user interaction continues)
+... (user interaction continues) let say user inputted cash 35
 Dispensing S.
-Your change is $0.25.
+Your change is ₱5.
 
 Thank you for using the Vending Machine!
 ```
