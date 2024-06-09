@@ -1,0 +1,3 @@
+### I took a break from programming for the past three days to vacation with my friends in Tubungan, Iloilo. First, we explored Bato Sumpit Falls, where we had an amazing time enjoying the natural beauty. Afterwards, we headed to the UniTribe restaurant for some delicious veggie food—I'd give that place a 1000/10!
+
+### The next day, we ventured to Aningalan, Antique, where we had an amazing experience riding horses. These two days were well worth it, especially since we had a service vehicle to get around. Tomorrow, I dive back into my programming journey, feeling refreshed and ready to learn!
