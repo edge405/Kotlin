@@ -1,5 +1,3 @@
-Sure, here's a Kotlin problem related to handling nullability and working with collections:
-
 ### Problem Statement: Handling Nulls in a List of Nullable Strings
 
 You are given a list of nullable strings representing user input from a survey. Your task is to clean this list by performing the following operations:
