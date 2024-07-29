@@ -1,5 +1,3 @@
-Sure! Here's another problem for you:
-
 ### Problem: `Library Book Finder`
 
 #### Problem Statement
